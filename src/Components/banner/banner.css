@@ -1,0 +1,35 @@
+.banner{
+    
+    margin: 0;
+    padding: 0;   
+
+}
+.bannerLaptop, .bannerPrinter, .bannerAccess{
+        height: 220px;
+        width: 90%;
+        margin: auto;
+        
+        background-repeat: no-repeat;
+        text-align: center;
+        padding-top: 30px;
+        outline: none;
+        color: white;
+}
+.bannerLaptop{
+    background-image: url('../Assets/laptop/banniere.png');
+   
+    padding-bottom: 0;
+}
+.bannerPrinter{
+    background-image: url('../Assets/printers/bannerprnter.png');
+}
+.bannerAccess{
+    background-image: url('../Assets/acessoires/banneraccess.png');
+}
+.banner div{
+    text-align: justify;
+    text-justify: inter-word;
+    margin-right: 300px;
+    margin-left: 70px;
+   
+}
