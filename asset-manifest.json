@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/react-project/static/css/main.c8b57f28.css",
+    "main.js": "/react-project/static/js/main.a36cbb9c.js",
+    "static/js/787.792a50db.chunk.js": "/react-project/static/js/787.792a50db.chunk.js",
+    "static/media/p1.jpg": "/react-project/static/media/p1.9c41ee6dc6aee1ce8f22.jpg",
+    "static/media/p4.jpg": "/react-project/static/media/p4.58311f57881a6727bde7.jpg",
+    "static/media/Apple_MacBook.png": "/react-project/static/media/Apple_MacBook.82b581c46165daa044fc.png",
+    "static/media/p5.jpg": "/react-project/static/media/p5.7846086800aa239a9e0f.jpg",
+    "static/media/p6.jpg": "/react-project/static/media/p6.ebd4a80ab020a06ff33c.jpg",
+    "static/media/product2.png": "/react-project/static/media/product2.930c908ac3ecfe2797f8.png",
+    "static/media/p2.jpg": "/react-project/static/media/p2.31e957df2f51f2af366c.jpg",
+    "static/media/p3.jpg": "/react-project/static/media/p3.eee82337be7058aabd45.jpg",
+    "static/media/product2.jpg": "/react-project/static/media/product2.51de01f6bc760a5f48b7.jpg",
+    "static/media/imgbanner.png": "/react-project/static/media/imgbanner.4ed71ea4f07d31dd20d9.png",
+    "static/media/product1.jpg": "/react-project/static/media/product1.d9adec25441862ba67d0.jpg",
+    "static/media/product4.jpg": "/react-project/static/media/product4.a811ec1a0394b8e09b9d.jpg",
+    "static/media/bannerprnter.png": "/react-project/static/media/bannerprnter.8f4d7406ae947484f6ff.png",
+    "static/media/banneraccess.png": "/react-project/static/media/banneraccess.6311b6709ad93c4f32c8.png",
+    "static/media/banniere.png": "/react-project/static/media/banniere.780c39abf491359a8cc6.png",
+    "static/media/product3.jpg": "/react-project/static/media/product3.dc63bac8d8779532eeb3.jpg",
+    "static/media/product5.jpg": "/react-project/static/media/product5.7aba7d13c11a0e23aa0b.jpg",
+    "index.html": "/react-project/index.html",
+    "main.c8b57f28.css.map": "/react-project/static/css/main.c8b57f28.css.map",
+    "main.a36cbb9c.js.map": "/react-project/static/js/main.a36cbb9c.js.map",
+    "787.792a50db.chunk.js.map": "/react-project/static/js/787.792a50db.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8b57f28.css",
+    "static/js/main.a36cbb9c.js"
+  ]
+}
